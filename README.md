@@ -1,4 +1,4 @@
 # LeetCode Solutions Using Java
 
-### NAME: 
-### ROLL NO.: 
+### NAME: ayush ranjan
+### ROLL NO.: BETN1CS25058
